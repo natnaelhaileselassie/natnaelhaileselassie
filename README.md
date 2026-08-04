@@ -1,4 +1,4 @@
-# Natnael Haileselassie's Software Engineer Project Portfolio
+# Natnael Haileselassie's Web Development Project Portfolio
 
 I am passionate about building end-to-end solutions from scratch via hands on projects. From building simple static websites for fun to robust, modern,
 and responsive websites designed for accessibility, I love the world of web development. Additionally, I like finding certainty and making decisions in
