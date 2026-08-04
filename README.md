@@ -5,12 +5,10 @@ and responsive websites designed for accessibility, I love the world of web deve
 uncertain scenarios where I need to architect the parameters for the solution. Please check out my projects to see how I put these words to practice!
 
 ## Personal Page
-* dfd
--dd
-- dd
-- d
-- 
+- [Basic HTML and CSS page]([url](https://github.com/natnaelhaileselassie/basic-personal-HTML-CSS-page))
 
+## Older Projects
+- [NASA Space Explorer App]([url](https://github.com/natnaelhaileselassie/07-nasa-space-explorer))
 
 <!--
 ## Hi there 👋
