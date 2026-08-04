@@ -10,6 +10,10 @@ uncertain scenarios where I need to architect the parameters for the solution. P
 ## Older Projects
 - [NASA Space Explorer App]([url](https://github.com/natnaelhaileselassie/07-nasa-space-explorer))
 
+## Connect With Me
+[https://www.linkedin.com/in/natnael-haileselassie/]([url](https://www.linkedin.com/in/natnael-haileselassie/))
+
+
 <!--
 ## Hi there 👋
 
