@@ -6,6 +6,7 @@ uncertain scenarios where I need to architect the parameters for the solution. P
 
 ## Personal Page
 - [Basic HTML and CSS page]([url](https://github.com/natnaelhaileselassie/basic-personal-HTML-CSS-page))
+- <a href="https://www.linkedin.com/in/natnael-haileselassie/">Linkedin</a>
 
 ## Older Projects
 - [NASA Space Explorer App]([url](https://github.com/natnaelhaileselassie/07-nasa-space-explorer))
