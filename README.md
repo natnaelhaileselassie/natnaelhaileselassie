@@ -5,15 +5,13 @@ and responsive websites designed for accessibility, I love the world of web deve
 uncertain scenarios where I need to architect the parameters for the solution. Please check out my projects to see how I put these words to practice!
 
 ## Personal Page
-- [Basic HTML and CSS page]([url](https://github.com/natnaelhaileselassie/basic-personal-HTML-CSS-page))
-- <a href="https://www.linkedin.com/in/natnael-haileselassie/">Linkedin</a>
+- <a href="https://github.com/natnaelhaileselassie/basic-personal-HTML-CSS-page">Basic HTML and CSS page</a>
 
 ## Older Projects
-- [NASA Space Explorer App]([url](https://github.com/natnaelhaileselassie/07-nasa-space-explorer))
+- <a href="https://github.com/natnaelhaileselassie/07-nasa-space-explorer">NASA Space Explorer App</a>
 
 ## Connect With Me
-[https://www.linkedin.com/in/natnael-haileselassie/]([url](https://www.linkedin.com/in/natnael-haileselassie/))
-
+- <a href="https://www.linkedin.com/in/natnael-haileselassie/">Linkedin</a>
 
 <!--
 ## Hi there 👋
