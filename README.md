@@ -1,6 +1,12 @@
-## Hi there 👋
+## Natnael Haileselassie's Software Engineer Project Portfolio
+
+I am passionate about building end-to-end solutions from scratch via hands on projects. From building simple static websites for fun to robust, modern,
+and responsive websites with great accessibility, I love the world of web development. Additionally, I like finding certainty and making decisions in
+uncertain scenarios where I need to architect the parameters for the solution. Please check out my projects to see how I put these words to practice!
 
 <!--
+## Hi there 👋
+
 **natnaelhaileselassie/natnaelhaileselassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
