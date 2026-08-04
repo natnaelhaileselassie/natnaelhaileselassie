@@ -4,7 +4,7 @@ I am passionate about building end-to-end solutions from scratch via hands on pr
 and responsive websites designed for accessibility, I love the world of web development. Additionally, I like finding certainty and making decisions in
 uncertain scenarios where I need to architect the parameters for the solution. Please check out my projects to see how I put these words to practice!
 
-## Personal Page
+## Personal Projects
 - <a href="https://github.com/natnaelhaileselassie/basic-personal-HTML-CSS-page">Basic HTML and CSS page</a>
 
 ## Older Projects
