@@ -5,7 +5,7 @@ and responsive websites designed for accessibility, I love the world of web deve
 uncertain scenarios where I need to architect the parameters for the solution. Please check out my projects to see how I put these words to practice!
 
 ## Personal Projects
-- <a href="https://github.com/natnaelhaileselassie/basic-personal-HTML-CSS-page">Personal Stopwatch & Pomodoro Timer</a>
+- <a href="https://github.com/natnaelhaileselassie/personal_stopwatch_page">Personal Stopwatch & Pomodoro Timer</a>
 - <a href="https://github.com/natnaelhaileselassie/basic-personal-HTML-CSS-page">Basic HTML and CSS website</a>
 
 ## Older Projects
